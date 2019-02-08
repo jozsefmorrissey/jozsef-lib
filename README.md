@@ -1,7 +1,7 @@
-To install
-
+### To install
 npm install jozsef-lib
 
+### lazyloader
 To utilze lazyLoad service during config
 
 let jozsefLib = require('jozsef-lib');
